@@ -1,1 +1,2 @@
-# gpt-falador-android-app
+# GPT-Falador App for Android smartphones
+
